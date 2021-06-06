@@ -3,4 +3,4 @@
 - this file is obfuscated for skidripping
 - github lurkers exist!
 
-<p align="middle"> <img src="https://i.imgur.com/s4SiysE.mp4" style="width: 10px;"> </img>
+<p align="middle"> <img src="https://i.imgur.com/jmtJRhb.gif" style="width: 10px;"> </img>
